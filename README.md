@@ -5,16 +5,16 @@ exception handling.
 
 Features: 
 
-Add Student
-Display All Students
-Search Student by Roll Number
-Update Student Details
-Delete Student
-Display Passed Students
-Sort Students by Total Marks
-Show Class Average
-Show Unique Cities/Courses
-Exit
+Add Student,
+Display All Students,
+Search Student by Roll Number,
+Update Student Details,
+Delete Student,
+Display Passed Students,
+Sort Students by Total Marks,
+Show Class Average,
+Show Unique Cities/Courses,
+Exit.
 
 Concepts Used: 
 
